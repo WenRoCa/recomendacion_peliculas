@@ -47,6 +47,8 @@ Este proyecto implementa un sistema de recomendación que:
 pip install numpy pandas scikit-learn
 python recomendacion_peliculas.py
 
+```
+---
 👩‍💻 Autor
 
 NWRD - Wen Rocha
