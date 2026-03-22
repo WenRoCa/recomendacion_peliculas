@@ -48,17 +48,6 @@ pip install numpy pandas scikit-learn
 python recomendacion_peliculas.py
 
 ```
-##🌐 Ejecutar interfaz web (Streamlit)
-
-Antes de ejecutar la aplicación web, asegúrate de haber generado el modelo (modelo_lstm.h5) ejecutando el archivo principal.
-
-```bash
-python recomendacion_peliculas.py
-```
-Luego ejecuta:
-```bash
-python -m streamlit run app.py
-```
 ---
 👩‍💻 Autor
 
